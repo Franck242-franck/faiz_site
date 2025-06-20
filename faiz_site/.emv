@@ -1,4 +1,3 @@
 
 SECRET_KEY=django-insecure-7++(xjv_6^^z-bga8*4ux-9#dzw-t-l0k$e%7*nulpfv##sf8_
 DATABASE_URL=postgresql://inscription_sql_user:Y61tCy9dT3vVLx8ozlSlLuPPJ38wMBkb@dpg-d1ann50dl3ps73ds6i6g-a.oregon-postgres.render.com/inscription_sql
-ALLOWED_HOSTS=monapp.onrender.com
